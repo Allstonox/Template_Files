@@ -1,0 +1,15 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Arial;
+    margin: 0px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    height: 100vh;
+    width: 100%;
+    background: grey;
+}
